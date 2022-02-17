@@ -1,0 +1,5 @@
+# 1 - open terminal, and point the location of this project folder. 
+	ex. - cd <c:/full_path/project_name>
+# 2 - run command npm install
+
+# 3 - run command npm run dev
